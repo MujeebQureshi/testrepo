@@ -1,0 +1,11 @@
+{
+  "bindings": [
+    {
+      "name": "myQueueItem",
+      "type": "queueTrigger",
+      "direction": "in",
+      "queueName": "%ALERT_PLUS_QUEUE_NAME%",
+      "connection": "ALERT_PLUS_TABLE_CONN_STR"
+    }
+  ]
+}
