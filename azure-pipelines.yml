@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'b975cc20-59ba-46fa-927d-96bbec265de8'
 
   # Function app name
-  functionAppName: ''
+  functionAppName: 'testzepcomfuncapp2'
 
   # Environment name
   environmentName: ''
